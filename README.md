@@ -1,3 +1,3 @@
 # WE-Project
 
-This is a team project under the WE (WOomen Engineers) Program. 
+This is a team project under the WE (Women Engineers) Program. 
